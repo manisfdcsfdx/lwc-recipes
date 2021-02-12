@@ -1,0 +1,45 @@
+[
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "newlabel1",
+        "path": "delta-2\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "newlabel2",
+        "path": "delta-2\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "newlabel3",
+        "path": "delta-2\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "newlabel4",
+        "path": "delta-2\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Delete",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_NEWLIST",
+        "path": "destructiveChanges.xml"
+    },
+    {
+        "action": "Delete",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_OLDLIST",
+        "path": "destructiveChanges.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "ApexClass",
+        "componentName": "CalculatorService2",
+        "message": "",
+        "path": "delta-2\\force-app\\main\\default\\classes\\CalculatorService2.cls-meta.xml"
+    }
+]

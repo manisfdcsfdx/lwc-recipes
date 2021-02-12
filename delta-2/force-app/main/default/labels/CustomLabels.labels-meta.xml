@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+  <labels>
+    <fullName>newlabel1</fullName>
+    <categories>Trigger framework</categories>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>newlabel1</shortDescription>
+    <value>newlabel1</value>
+  </labels>
+  <labels>
+    <fullName>newlabel2</fullName>
+    <categories>Trigger framework</categories>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>newlabel2</shortDescription>
+    <value>newlabel2</value>
+  </labels>
+  <labels>
+    <fullName>newlabel3</fullName>
+    <categories>Trigger framework</categories>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>newlabel3</shortDescription>
+    <value>newlabel3</value>
+  </labels>
+  <labels>
+    <fullName>newlabel4</fullName>
+    <categories>Trigger framework</categories>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>newlabel4</shortDescription>
+    <value>newlabel4</value>
+  </labels>
+</CustomLabels>
