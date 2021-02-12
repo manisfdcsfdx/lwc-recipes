@@ -11,6 +11,8 @@ jsconfig.json
 
 # LWC Jest coverage reports
 coverage/
+.vim-force.com
+.vscode
 
 # Logs
 logs
