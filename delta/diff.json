@@ -1,0 +1,63 @@
+[
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_AFTERDELETE",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_AFTERINSERT",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_AFTERUNDELETE",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_AFTERUPDATE",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_BEFOREDELETE",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_BEFOREINSERT",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_BEFOREUPDATE",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_NEWLIST",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "CustomLabel",
+        "componentName": "TRIGGER_OLDLIST",
+        "path": "delta\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml"
+    },
+    {
+        "action": "Deploy",
+        "metadataType": "ApexClass",
+        "componentName": "CalculatorService",
+        "message": "",
+        "path": "delta\\force-app\\main\\default\\classes\\CalculatorService.cls-meta.xml"
+    }
+]
