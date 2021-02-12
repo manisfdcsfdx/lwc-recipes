@@ -57,19 +57,35 @@
         <value>TRIGGER_BEFOREUPDATE</value>
     </labels>
     <labels>
-        <fullName>TRIGGER_NEWLIST</fullName>
+        <fullName>newlabel1</fullName>
         <categories>Trigger framework</categories>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>TRIGGER_NEWLIST</shortDescription>
-        <value>newList</value>
+        <shortDescription>newlabel1</shortDescription>
+        <value>newlabel1</value>
     </labels>
     <labels>
-        <fullName>TRIGGER_OLDLIST</fullName>
+        <fullName>newlabel2</fullName>
         <categories>Trigger framework</categories>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>TRIGGER_OLDLIST</shortDescription>
-        <value>oldList</value>
+        <shortDescription>newlabel2</shortDescription>
+        <value>newlabel2</value>
+    </labels>
+    <labels>
+        <fullName>newlabel3</fullName>
+        <categories>Trigger framework</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>newlabel3</shortDescription>
+        <value>newlabel3</value>
+    </labels>
+    <labels>
+        <fullName>newlabel4</fullName>
+        <categories>Trigger framework</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>newlabel4</shortDescription>
+        <value>newlabel4</value>
     </labels>
 </CustomLabels>
